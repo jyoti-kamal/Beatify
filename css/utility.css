@@ -1,15 +1,14 @@
 .border{
-    border:2px solid red;
+    border: 2px solid  red;
     margin: 3px;
 }
 
 .flex{
     display: flex;
-
 }
 
 .justify-center{
-   justify-content: center; 
+    justify-content: center;
 }
 
 .items-center{
@@ -22,7 +21,7 @@
 }
 
 .invert{
-    filter:invert(1)
+    filter: invert(1);
 }
 
 .bg-grey{
@@ -30,7 +29,7 @@
 }
 
 .rounded{
-   border-radius: 7px; 
+    border-radius: 7px;
 }
 
 .m-1{
@@ -40,3 +39,4 @@
 .p-1{
     padding: 10px;
 }
+
